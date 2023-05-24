@@ -466,8 +466,8 @@ local icons_by_file_extension = {
   },
   ["cs"] = {
     icon = "󰌛",
-    color = "#596706",
-    cterm_color = "58",
+    color = "#a067ed",
+    cterm_color = "57",
     name = "Cs",
   },
   ["csh"] = {
